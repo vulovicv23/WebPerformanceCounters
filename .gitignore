@@ -264,3 +264,4 @@ coverage
 build/Release
 
 /V.Web.PerformanceCounters/nuget.exe
+/V.Web.PerformanceCounters/V.Web.PerformanceCounters.nuspec

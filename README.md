@@ -6,7 +6,7 @@ Getting Started
 ==
 
 ### Installation
-
+Run this in package manager console `Install-Package V.Web.PerformanceCounters -Version 1.0.0` or search for `V.Web.PerformanceCounters` in Nuget Packages
 
 ### Usage
 Since this library uses ActionFilterAttributes, you can measure all or specific calls.
